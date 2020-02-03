@@ -1,2 +1,2 @@
-# minimal-webpack-babel-react-kit
+# typescript/webpack/react kit
  just clone it and use :)
